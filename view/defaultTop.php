@@ -2,7 +2,6 @@
 <html>
 
 <head>
-
     <meta charset="UTF-8">
     <title>PHS - SBO AME</title>
 
@@ -10,6 +9,7 @@
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/scss/index.css">
+    <link rel="stylesheet" href="/scss/fonts.css">
 </head>
 
 <body>
